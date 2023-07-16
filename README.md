@@ -1,4 +1,6 @@
-# SQL-interview-Questions
+-- Online SQL Editor to Run SQL Online.
+-- Use the editor to create new tables, insert data and all other SQL operations.
+ 
 --Q1(a):.Find the list of customers whose age in between 20 to 30.
 --SELECT customer_id,age
 --FROM Customers
