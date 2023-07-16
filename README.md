@@ -1,5 +1,5 @@
 # SQL-interview-Questions
-##--Q1(a):.Find the list of customers whose age in between 20 to 30.
+--Q1(a):.Find the list of customers whose age in between 20 to 30.
 --SELECT customer_id,age
 --FROM Customers
 --Where age Between 20 and 30;
